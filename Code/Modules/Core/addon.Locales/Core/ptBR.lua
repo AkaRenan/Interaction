@@ -248,11 +248,11 @@ end
 	do
 		do -- LIBRARY
 			-- PROMPTS
-			L["Readable - Library - Prompt - Delete"] = "Isso removerá permanentemente essa entrada da sua biblioteca. Você tem certeza que deseja continuar?."
+			L["Readable - Library - Prompt - Delete"] = "Realmente deseja excluir o livro?"
 			L["Readable - Library - Prompt - Delete Button 1"] = "Remover"
 			L["Readable - Library - Prompt - Delete Button 2"] = "Cancelar"
 
-			L["Readable - Library - Prompt - Import"] = "Importar um estado salvo substituirá sua biblioteca atual. Você tem certeza que deseja continuar?."
+			L["Readable - Library - Prompt - Import"] = "Deseja substituir toda a sua biblioteca?"
 			L["Readable - Library - Prompt - Import Button 1"] = "Importar e Recarregar"
 			L["Readable - Library - Prompt - Import Button 2"] = "Cancelar"
 
